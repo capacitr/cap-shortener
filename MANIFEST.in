@@ -1,0 +1,3 @@
+recursive-include cap_shortener *
+recursive-include cap_shortener/templatetags *
+
